@@ -1,11 +1,7 @@
-
-public class AStepFoward {
-
-	/**
-	 * @param args
-	 */
+public class AStepFoward {	 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+		System.out.println("Hello Class");
 
 	}
 
